@@ -41,7 +41,9 @@ namespace Pattern_01
         }
     }
 
-
+    /// <summary>
+    /// Operate 作为一个基类，只是提供基础的虚函数
+    /// </summary>
     public class Operate
     {
         public double num1 { get; set; }

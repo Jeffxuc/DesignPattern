@@ -1,1 +1,2 @@
-1. Add factory mode.
+1. 工厂模式
+2. 策略模式
